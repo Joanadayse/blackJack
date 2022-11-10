@@ -1,0 +1,42 @@
+*{
+    margin: auto;
+    padding: 0;
+    margin-bottom: 1em;
+   
+}
+
+#principal{
+  
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+    padding: 20px;
+}
+
+#jogador {
+    border: 1px solid black;
+    width: 300px;
+    min-height: 30px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    align-items: center;
+    margin-bottom: 1em;
+}
+
+#computador{
+    border: 1px solid black;
+    width: 300px;
+    min-height: 30px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+#resultado{
+    border: 1px solid black;
+    width: 300px;
+    min-height: 30px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
